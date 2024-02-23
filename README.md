@@ -14,11 +14,10 @@ This project aims to predict stock prices using time-series forecasting techniqu
 To run the project locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
-3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Run the Python script `forecast.py`.
+4. Run the Python script `forecast.ipynb`.
 
 ## Usage
-1. Open `forecast.py` in your preferred Python environment.
+1. Open `forecast.ipynb` in your preferred Python environment.
 2. Modify the script to specify the desired stock symbol and time frame for analysis.
 3. Run the script to gather historical data and generate stock price predictions.
 4. Review the output to analyze the forecasted stock prices.
